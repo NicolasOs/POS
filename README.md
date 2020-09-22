@@ -1,2 +1,2 @@
-# POS
-Concesionario
+# Tech
+Versión 0.01
